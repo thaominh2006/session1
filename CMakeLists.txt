@@ -4,7 +4,8 @@ project(Sesion_1 C)
 set(CMAKE_C_STANDARD 23)
 
 add_executable(Sesion_1 main.c
-        ex1.c
-        ex02.c
-        ex03.c
-        ex04.c)
+        PTIT_CNTT3_IT104_Session01_Bai01.c
+        PTIT_CNTT3_IT104_Session01_Bai02.c
+        PTIT_CNTT3_IT104_Session01_Bai03.c
+        PTIT_CNTT3_IT104_Session01_Bai04.c
+        PTIT_CNTT3_IT104_Session01_Bai06.c)

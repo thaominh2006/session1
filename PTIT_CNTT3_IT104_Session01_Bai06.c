@@ -1,3 +1,4 @@
+//
 // Bước 1: Tạo mảng
 //  Bước 1.1: Nhập sl ptu của mảng
 //  Bước 1.2: Nhập gtri vào từng vị trí
