@@ -9,4 +9,6 @@ add_executable(Sesion_1 main.c
         PTIT_CNTT3_IT104_Session01_Bai03.c
         PTIT_CNTT3_IT104_Session01_Bai04.c
         PTIT_CNTT3_IT104_Session01_Bai06.c
-        PTIT_CNTT3_IT104_Session01_Bai05.c)
+        PTIT_CNTT3_IT104_Session01_Bai05.c
+        PTIT_CNTT3_IT104_Session01_Bai07.c
+        PTIT_CNTT3_IT104_Session01_Bai08.c)
